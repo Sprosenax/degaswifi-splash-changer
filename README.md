@@ -1,8 +1,6 @@
 # degaswifi-splash-changer
 this changes the splash screen of Samsung Galaxy Tab 4 7.0 (degaswifi)
 
-# 📦 Firmware Image Patcher GUI
-
 A simple cross-platform tool to patch custom splash images into `PARAM.bin` or similar firmware files.  
 Supports **Windows & Linux**, with a drag-and-drop GUI for easier use.
 
